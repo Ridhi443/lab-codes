@@ -1,3 +1,4 @@
+// Write a small C snippet with int, if, while, return.
 #include <stdio.h>
 int main()
  {
@@ -13,3 +14,4 @@ int main()
         }
     return 0;  // return = keyword
 }
+
