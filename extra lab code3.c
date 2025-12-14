@@ -1,3 +1,4 @@
+// create a program where a global variable and a local variable have the same name. print their values inside and outside the function to show the difference. 
 #include <stdio.h>
 
 int x = 10;   // global variable
